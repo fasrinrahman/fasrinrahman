@@ -1,73 +1,120 @@
-# Welcome to your Lovable project
+# 👨‍💻 Mohamed Fasrin Rahman
 
-## Project info
+**BIT Undergraduate | Backend & Full-Stack Developer | Java & Spring Boot Enthusiast**
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+I am a **Bachelor of Information Technology (BIT) student at the University of Colombo School of Computing (UCSC)** with a strong interest in **backend development, system design, and building scalable web applications**.
 
-## How can I edit this code?
+I enjoy transforming ideas into practical software solutions while continuously learning modern technologies and development practices.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🚀 Tech Stack
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+### Programming Languages
+- Java
+- Python
+- JavaScript
+- PHP
+- SQL
 
-Changes made via Lovable will be committed automatically to this repo.
+### Frameworks & Libraries
+- Spring Boot
+- Spring MVC
+- Hibernate / JPA
+- Bootstrap
 
-**Use your preferred IDE**
+### Web Technologies
+- HTML5
+- CSS3
+- REST APIs
+- JSON
+- Responsive Design
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Tools & Platforms
+- Git
+- GitHub
+- Maven
+- Gradle
+- Postman
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
+### Currently Learning
 - React
-- shadcn-ui
-- Tailwind CSS
+- Docker
+- DevOps Practices
+- Cloud Technologies
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+## 📂 Featured Projects
 
-## Can I connect a custom domain to my Lovable project?
+### 💎 Jewellery Management System
+Full-stack university project designed to manage **inventory, suppliers, orders, and production workflows** for a jewellery business.
 
-Yes, you can!
+**Tech Stack:**  
+Java • Spring Boot • MySQL • Hibernate • Thymeleaf • Bootstrap
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+### 🇱🇰 Sri Lankan Tax Calculator
+A **Python command-line tax calculator** implementing Sri Lanka’s progressive tax system (April 2025 tax reforms). The project demonstrates functional programming techniques and financial calculation logic.
+
+**Tech Stack:**  
+Python • Functional Programming
+
+---
+
+### 🌐 Gusto Website Clone
+A responsive frontend project recreating the **Gusto landing page UI** using modern layout techniques.
+
+**Tech Stack:**  
+HTML • CSS • Bootstrap • Flexbox • CSS Grid • JavaScript
+
+---
+
+### 💳 TaxPal Landing Page
+A SaaS-style responsive landing page inspired by the **TaxPal design system**.
+
+**Tech Stack:**  
+HTML • CSS • Bootstrap • JavaScript
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fasrinrahman&show_icons=true)
+
+---
+
+## 🌍 Connect With Me
+
+**LinkedIn**  
+https://linkedin.com/in/fasrinrahman
+
+**GitHub**  
+https://github.com/fasrinrahman
+
+**Email**  
+mfasrinrahman@gmail.com
+
+---
+
+## 📚 Interests
+
+- Backend Development
+- System Architecture
+- Clean Code & Software Design
+- DevOps Practices
+- Open Source Contribution
+
+---
+
+## 🎯 Current Goals
+
+- Improve **Spring Boot backend development**
+- Build **production-level full-stack applications**
+- Learn **React and cloud technologies**
+- Contribute to **open-source projects**
+
+---
+
+💡 *Always learning. Always building.*
